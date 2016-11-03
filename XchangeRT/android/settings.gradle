@@ -1,0 +1,3 @@
+rootProject.name = 'XchangeRT'
+
+include ':app'
